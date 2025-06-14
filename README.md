@@ -64,7 +64,7 @@ Projenin genel işleyişini gösteren video tanıtımına buradan ulaşabilirsin
 ### 📌 Malzeme Yönetimi(Ekle, Düzenle, Sil)
 ![Malzeme](gorseller/malzeme.png)
 
-### 📌 Tarif TYönetimi(Detay görüntüle, Güncelle, Düzenle, Sil)
+### 📌 Tarif Yönetimi(Detay görüntüle, Güncelle, Düzenle, Sil)
 ![Tarif](gorseller/tarifler.png)
 ---
 
