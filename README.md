@@ -18,8 +18,6 @@ Projeyi canlı olarak denemek için aşağıdaki bağlantıya tıklayabilirsiniz
 
 Projenin genel işleyişini gösteren video tanıtımına buradan ulaşabilirsiniz:
 
-## Proje Tanıtım Videosu
-
 📽 [YouTube'da İzle](http://youtube.com/watch?v=Z2BSvFMmRYw)
 
 ---
