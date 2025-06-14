@@ -75,9 +75,9 @@ Projenin genel işleyişini gösteren video tanıtımına buradan ulaşabilirsin
 
 ### 2️⃣ Projeyi İndirme
 ```bash
-git clone <proje_github_repo_adresi> restoran_yonetimi
+git clone <(https://github.com/Aynur-Ad/PHP-MySQL_Projesi)> 
 ```
-> Alternatif olarak zip olarak indirip `htdocs/` klasörüne çıkarabilirsiniz.
+> Alternatif olarak dosyaları indirip tek bir klasör altında(mesela restoran_yonetimi) `htdocs/` klasörüne koyabilirsiniz.
 
 ### 3️⃣ Veritabanı Kurulumu
 1. phpMyAdmin’e gidin (örn: `http://localhost/phpmyadmin`)
