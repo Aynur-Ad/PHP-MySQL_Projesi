@@ -18,7 +18,7 @@ Projeyi canlı olarak denemek için aşağıdaki bağlantıya tıklayabilirsiniz
 
 Projenin genel işleyişini gösteren video tanıtımına buradan ulaşabilirsiniz:
 
-[![Proje Tanıtım Videosu](https://img.youtube.com/vi/Z2BSvFMmRYw/0.jpg)]([(https://youtu.be/Z2BSvFMmRYw])
+[![Proje Tanıtım Videosu](https://youtu.be/Z2BSvFMmRYw)
 
 ---
 
